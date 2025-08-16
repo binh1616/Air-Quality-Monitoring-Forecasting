@@ -1,0 +1,11 @@
+# Data collection & processing
+pandas
+numpy
+requests
+tqdm
+matplotlib
+seaborn
+
+# Machine learning & deep learning
+scikit-learn
+tensorflow
